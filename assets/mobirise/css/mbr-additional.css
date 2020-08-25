@@ -2738,8 +2738,8 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-s8FQLhpf9o .media-container-column .mbr-figure {
-    padding-top: 2rem;
-    padding-right: 2rem;
+    padding-top: 4rem;
+    padding-right: 0rem;
   }
 }
 .cid-s8FQLhpf9o .media-container-row-column {

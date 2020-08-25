@@ -47,7 +47,7 @@
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/hlo6055-passport-128x165.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
